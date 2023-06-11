@@ -1,0 +1,26 @@
+Sample exercises:
+1. Create a function that determines if a number is odd or even
+    ex. checkOddEven(8) -> Even
+    ex2. checkOddEven(99) -> Odd
+2. Create a function that gets a number and checks if it is divisible by 3 or 5 or both
+    ex. checkDiv(9) -> divisible by 3
+    ex2. checkDiv(10) -> divisible by 5
+    ex3. checkDiv(15) -> divisible by 3 and 5
+    ex4. checkDiv(11) -> not divisible by 3 nor 5
+3. Create a function called printFizzBuzz that gets a number and prints in the following format:
+    ex. printFizzBuzz(15)
+    1 - pop
+    2 - fizz
+    3 - buzz
+    4 - fizz
+    5 - pop
+    6 - fizzbuzz
+    ....
+    11 - pop
+    12 - fizzbuzz
+    13 - pop
+    14 - fizz
+    15 - buzz
+
+Challenge 1: Create a function that checks if a year is a leap year or not
+Challenge 2: Modify the function in Challenge 1 to be a single if-statement only
